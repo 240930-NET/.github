@@ -26,16 +26,16 @@ Welcome to 240930 .NET training! Here you'll find useful information for this tr
 - [P0]()
 ## <a name="installs"></a>Software Install Links
 Install the following software by the day listed below.
-### Week 1 Day 1 (4/1/24)
+### Week 1 Day 1 (09/30/24)
 - .NET SDK: https://dotnet.microsoft.com/en-us/download
 - Visual Studio Code: https://code.visualstudio.com/
 - *only for windows users* Git for Windows: https://git-scm.com/download/win (For mac and linux users, git comes preinstalled)
-### Week 2 Day 1 (4/8/24)
+### Week 2 Day 1 (10/07/24)
 _**I recommend you wait until the day before to start your free trial. It only lasts for 30 days**_ 
 - Microsoft Azure Free Trial Account: https://azure.microsoft.com/en-us/
   - Click Try Azure for Free
   - Make sure you have $200 credit for 30 days
-### Week 4 Day 1 (4/22/24)
+### Week 4 Day 1 (10/21/24)
 - Node.js: https://nodejs.org/en/download/
-### Week 7 Day 1 (5/13/24)
+### Week 7 Day 1 (11/11/24)
 - Docker Desktop: https://www.docker.com/products/docker-desktop/ **Budget sufficient time for this installation** 
